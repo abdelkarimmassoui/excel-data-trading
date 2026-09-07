@@ -1,5 +1,5 @@
 total trade,100,
-total profit,"$12,225.00",
+total profit,"$12,225.00 ",
 avg profit,122.25,
 total win,59,
 total loss,41,
@@ -8,3 +8,4 @@ large profit 4,625,hna kan3raf 2 wla 3 wla 4… a3la 9ima man ba3da a3la 9ima max
 max profit,750,
 small proft ,-250,hnaya kan3raf 2 wla 3 wla 4 a9al 9ima man adna 9ima
 min profit,-375,
+if,hsh,
